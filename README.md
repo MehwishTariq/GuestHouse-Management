@@ -19,3 +19,5 @@ Language Used : C#
 Database used : Oracle
 
 For Further details on what the project does a report named "DBMSreport.pdf" is provided.
+
+The Project doesnot contain everything shown in the ERD.
